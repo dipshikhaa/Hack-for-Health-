@@ -1,0 +1,16 @@
+Directories:
+Create logical directories to categorize different aspects of your project (e.g., "models," "data_preprocessing," "web_app," etc.).
+
+File Naming:
+Use descriptive names for your files that clearly indicate their purpose or functionality.
+Maintain consistency in naming conventions.
+
+Documentation within Code:
+Include comments and docstrings within the code to explain the functionality, logic, and usage of functions or modules.
+Add explanations or references to algorithms and techniques used.
+
+Jupyter Notebooks or Python Scripts:
+Organize Jupyter notebooks (.ipynb) or Python scripts (.py) within the respective directories based on their functionality or purpose.
+
+Additional Resources:
+Provide references, links to datasets used, and any external resources that were instrumental in the project's development.
